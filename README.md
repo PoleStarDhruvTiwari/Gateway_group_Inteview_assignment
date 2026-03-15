@@ -66,3 +66,7 @@ HR-PEA intelligently breaks down these questions, searches through HR documents,
 ## 🏗 System Architecture
 
 ### High-Level Design (HLD)
+
+ https://docs.google.com/document/d/1QXdvYu7zmvyoUOeWuKyb6rFMDJGV_CigkM83uVmvIG4/edit?tab=t.wpxprxnz2ghb   
+
+ Document contain complete HLD , LLD , database schema , sequence diagram  .
